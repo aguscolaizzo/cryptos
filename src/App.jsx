@@ -74,7 +74,7 @@ useEffect(() => {
           alt="Imagenes CriptoMonedas"
         />
         <div>
-          <Heading>Cotiza Criptomonedas al Instante</Heading>
+          <Heading>Hola Jero, Cotiza Criptomonedas al Instante</Heading>
           <Formulario
             setMonedas={setMonedas}
           />
